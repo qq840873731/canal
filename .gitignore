@@ -19,6 +19,8 @@ jtester.properties
 *.rpm
 client-adapter/example/
 *.dat
+.qwen/
+.vscode/
 conf/
 canal-admin/canal-admin-ui/dist/
 canal-admin/canal-admin-ui/node/
